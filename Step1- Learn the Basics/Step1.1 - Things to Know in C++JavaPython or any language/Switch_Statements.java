@@ -15,6 +15,9 @@ public class Switch_Statements {
                 a[1]=y;
                 return 2*x*y;
 
+            default:
+                return 1.0;
+
         }
     }
 }
